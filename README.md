@@ -27,4 +27,6 @@ The key design principle is simple:
 
 For the full architecture walkthrough, read:
 
-[How to Reduce High-Net-Worth Client Onboarding Time With an Agentic KYC Workflow](LINK_TO_BLOG_POST)
+[How to Reduce High-Net-Worth Client Onboarding Time With an Agentic KYC Workflow](https://pmexaminer.com/reduce-high-net-worth-client-onboarding-time-with-an-agentic-kyc-workflow/)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manujeevanprakash/agentic-kyc-workflow-prototype/blob/main/KYC_Agentic_AI_Workflow_Public.ipynb)
